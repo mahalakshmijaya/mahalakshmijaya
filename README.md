@@ -208,6 +208,6 @@
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [mahalakshmi](https://github.com/sabariyuhendh)**
+**⭐ From [mahalakshmi](https://github.com/mahalakshmi)**
 
 </div>
