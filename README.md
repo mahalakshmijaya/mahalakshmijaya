@@ -142,8 +142,6 @@
 | **CodeChef** | 567 | 1601 |
 | **CodeForces** | 136 | 969 |
 
-##  GitHub Analytics
-
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahalakshmi&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=8B5CF6&ring_color=8B5CF6&border_color=8B5CF6" alt="GitHub Stats" />
